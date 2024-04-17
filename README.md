@@ -36,6 +36,7 @@ Screenshot of config-txt2img.json, which can be opened with the open config file
 ## Changelog
 <details>
     <summary>Click to view Changelog</summary>
+
     
 #### 4/02/2024
 * Improved error handling when the config files are edited manually
